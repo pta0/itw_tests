@@ -1,0 +1,14 @@
+{
+    "name": "itw_tests",
+    "version": "1.0.0",
+    "description": "test sample",
+    "main": "",
+    "scripts": {
+        "git": "git reset --hard origin/master && git fetch origin && git pull origin"
+    },
+    "author": "ptao",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^9.5.0"
+    }
+}
